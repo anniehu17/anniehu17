@@ -8,7 +8,7 @@ Previously, I was a SWE Intern @ EquipmentShare in the summer of '23.
 
 I am an incoming SWE Intern @ Roblox for the summer of '24! 
 
-You can connect with me on LinkedIn [here](https://www.linkedin.com/in/annie-grace-hu/). 
+You can connect with me on LinkedIn [here](https://www.linkedin.com/in/annie-grace-hu/) and view my resume [here](https://github.com/anniehu17/anniehu17/blob/main/Annie_Hu_Resume.pdf). 
 
 - 🔭 I’m currently working on making my own OS called PinkOS!
 - 🌱 I’m currently learning System Design using this [primer](https://github.com/donnemartin/system-design-primer).
