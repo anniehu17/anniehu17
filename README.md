@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**anniehu17/anniehu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Annie!
 
-Here are some ideas to get you started:
+I'm currently a first-year Turing Scholar at the University of Texas at Austin!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I was a SWE Intern @ EquipmentShare in the summer of '23. 
+
+I am an incoming SWE Intern @ Roblox for the summer of '24! 
+
+You can connect with me on LinkedIn [here](https://www.linkedin.com/in/annie-grace-hu/). 
+
+- 🔭 I’m currently working on making my own OS called PinkOS!
+- 🌱 I’m currently learning System Design using this [primer](https://github.com/donnemartin/system-design-primer).
+- 🎀 My New Years resolution is to solve two Leetcode problems a day!
+- 💬 Ask me about x86-64 assembly! Assembly is my favorite and what really got me into computer science!
+- 📫 How to reach me: Email me at anniegracehu@gmail.com or text me at 614-636-1232!
+- 😄 Pronouns: she/her
