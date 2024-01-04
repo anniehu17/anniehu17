@@ -1,19 +1,9 @@
-### Hi there 👋
+### Hi! I'm Annie 💖
 
-I'm Annie!
+👩‍💻 I'm a first-year Turing Scholar at UT Austin and an incoming SWE Intern @ Roblox! 
 
-I'm currently a first-year Turing Scholar at the University of Texas at Austin!
+👾 I'm currently working on making my own OS called PinkOS! 
 
-Previously, I was a SWE Intern @ EquipmentShare in the summer of '23. 
+📄 You can view my resume [here](https://github.com/anniehu17/anniehu17/blob/main/Annie_Hu_Resume.pdf). 
 
-I am an incoming SWE Intern @ Roblox for the summer of '24! 
-
-You can connect with me on LinkedIn [here](https://www.linkedin.com/in/annie-grace-hu/) and view my resume [here](https://github.com/anniehu17/anniehu17/blob/main/Annie_Hu_Resume.pdf). 
-
-- 👾 I’m currently working on making my own OS called PinkOS!
-- 🌱 I’m currently learning System Design using this [primer](https://github.com/donnemartin/system-design-primer).
-- 🎀 My New Years resolution is to solve two Leetcode problems a day!
-  - 💪 (and also to be able to do 5 pull-ups, haha!)
-- 💬 Ask me about x86-64 assembly! Assembly is my favorite and what really got me into computer science!
-- 💌 How to reach me: Email me at anniegracehu@gmail.com or text me at 614-636-1232!
-- 👸🏻 Pronouns: she/her
+💌 Thanks for visiting my profile and I'd love to [connect](https://www.linkedin.com/in/annie-grace-hu/)!
