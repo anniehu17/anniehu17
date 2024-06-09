@@ -1,6 +1,6 @@
 ### Hi! I'm Annie 💖
 
-👩‍💻 I'm a first-year Turing Scholar at UT Austin and an incoming SWE Intern @ Roblox! 
+👩‍💻 I'm a second-year Turing Scholar at UT Austin and a SWE Intern @ Roblox! 
 
 👾 I'm currently working on making my own OS called PinkOS! 
 
