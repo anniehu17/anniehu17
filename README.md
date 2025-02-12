@@ -1,8 +1,8 @@
 ### Hi! I'm Annie 💖
 
-👩‍💻 I'm a Turing Scholar at UT Austin and an ex-SWE Intern @ Roblox! 
+👩‍💻 I'm a Turing Scholar at UT Austin
 
-👾 I'm currently working on making my own OS called PinkOS! 
+👾 I currently work as a Trading Systems Software Engineer at the [SF Compute Company](https://sfcompute.com/)! 
 
 📄 You can view my resume [here](https://github.com/anniehu17/anniehu17/blob/main/Annie_Hu_Resume.pdf). 
 
